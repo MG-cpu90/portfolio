@@ -177,3 +177,7 @@ p {
 .aboutSection {
     align-content: center;
 }
+
+#musicParagraph {
+    padding: 20px;
+}
